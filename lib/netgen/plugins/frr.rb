@@ -18,6 +18,7 @@ module Netgen
       sharpd
       staticd
       pbrd
+      pathd
     ]
 
     def name
